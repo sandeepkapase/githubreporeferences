@@ -1,0 +1,34 @@
+
+| Name                | Description                                | Repository                                                        |
+|---------------------+--------------------------------------------+-------------------------------------------------------------------|
+| Developer Roadmap   | Learning Roadmap for developers            | https://github.com/kamranahmedse/developer-roadmap                |
+|                     |                                            | https://roadmap.sh/                                               |
+|                     |                                            | https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now/featured |
+|                     |                                            |                                                                   |
+| Leetcode solutions  | Solution repository for leetcode problems  | https://github.com/fishercoder1534/Leetcode                       |
+|                     |                                            | https://github.com/kamyu104/LintCode                              |
+|                     |                                            | https://github.com/kamyu104/LeetCode-Solutions                    |
+|                     |                                            | https://github.com/Garvit244/Leetcode                             |
+|                     |                                            | https://github.com/royalpranjal/LeetCode                          |
+|                     |                                            | https://github.com/pezy/LeetCode                                  |
+|                     |                                            |                                                                   |
+|                     |                                            |                                                                   |
+| emacs               | emacs plugin/help info                     | https://github.com/sandeepkapase/awesome-emacs                    |
+|                     |                                            |                                                                   |
+| git                 | git help references                        | https://github.com/git-tips/tips                                  |
+|                     |                                            |                                                                   |
+| ymcd                | code completion and                        | https://github.com/ycm-core/ycmd                                  |
+|                     | comprehension server source repo           |                                                                   |
+|                     |                                            |                                                                   |
+| system design       | system design primer                       | https://github.com/donnemartin/system-design-primer               |
+|                     |                                            |                                                                   |
+| interview           | interview/basics preparation resource list | https://github.com/jwasham/coding-interview-university            |
+|                     |                                            |                                                                   |
+| golang              | mirror repo for golang programmin          | https://github.com/golang/go                                      |
+|                     |                                            |                                                                   |
+|                     |                                            |                                                                   |
+| programmin language | list of programming language with github   | https://github.com/collections/programming-languages              |
+| listing on github   | repo link                                  |                                                                   |
+|                     |                                            |                                                                   |
+| C, C++ compiler     | Resource for optimization option for c,c++ | http://www.keil.com/support/man/docs/armcc/armcc_chr1359124238837.htm                                                                  |
+|---------------------+--------------------------------------------+-------------------------------------------------------------------|
